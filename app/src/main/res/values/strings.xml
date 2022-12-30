@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit _Convertor</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_number">Enter number</string>
+    <string name="centimeters">centimeters</string>
+    <string name="meters">Meters</string>
+    <string name="kilometers">kilometers</string>
+    <string name="miles">miles</string>
+    <string name="enter_num">Enter number</string>
+</resources>
